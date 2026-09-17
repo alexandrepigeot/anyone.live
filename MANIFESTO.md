@@ -8,13 +8,13 @@ But I want to go back to building that village. And I want to start with a syste
 
 So that's the basic idea: you open up the app, point to an address on the web and simply ask... anyone.live ? And maybe the world is a village again.
 
-# FAQ (about the concept)
+## FAQ (about the concept)
 
 I have been the owner of anyone.live for more than 15 years. I've dreamt that project in every dimension possible.
 
 So I've talked about it a lot and I've had lots of opinions handed to me. Sometimes, even useful ones.
 
-## This is not safe !
+### This is not safe ?
 
 Walking on the streets by yourself is not safe either.
 
@@ -24,7 +24,7 @@ I intend to implement safety measures to give maximum privacy for the users and 
 
 But I need everyone to understand also that this is a part of the humanity experiment. I don't control you. No one should.
 
-## How do you turn a profit ?
+### How do you turn a profit ?
 
 I don't care about making a profit. I've never cared about looking successful or making money to be honest. I just need enough to feed my family and give a good life to my kids and I got a day job for that.
 
